@@ -85,6 +85,14 @@ The project uses:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## Support
+## UI/UX
 
-For support, please open an issue in the GitHub repository.
+<img width="1920" height="1538" alt="screencapture-localhost-3000-2025-09-30-10_51_47" src="https://github.com/user-attachments/assets/607dae18-97e1-42ab-b349-f49de62aea1c" />
+<img width="1920" height="1063" alt="screencapture-localhost-3000-2025-09-30-10_52_34" src="https://github.com/user-attachments/assets/97350491-50dd-47f1-9bdb-449ac5c9556a" />
+<img width="1920" height="1191" alt="screencapture-localhost-3000-2025-09-30-10_52_50" src="https://github.com/user-attachments/assets/fcdcd1ea-7495-4394-bb18-ce79e291975a" />
+<img width="1920" height="1331" alt="screencapture-localhost-3000-2025-09-30-10_53_09" src="https://github.com/user-attachments/assets/96c1ff61-a692-4762-a685-356d3f983d01" />
+<img width="1920" height="1567" alt="screencapture-localhost-3000-2025-09-30-10_53_30" src="https://github.com/user-attachments/assets/95a4e2fd-c01b-41ad-8087-cc261c73fe7b" />
+<img width="1905" height="951" alt="image" src="https://github.com/user-attachments/assets/d82bb13a-0404-45b5-abeb-dc40d09a6dcb" />
+
+
+
